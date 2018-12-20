@@ -3,6 +3,8 @@ layout: lesson
 root: .
 ---
 
+This is the version taught at the [Programming with Python, including The Unix Shell, and Version Control with Git](https://bham-carpentries.github.io/2018-12-17-bham/) workshop on Monday 17th and Tuesday 18th December 2018
+
 Wolfman and Dracula have been hired by Universal Missions (a space
 services spinoff from Euphoric State University) to investigate if it
 is possible to send their next planetary lander to Mars.  They want to
